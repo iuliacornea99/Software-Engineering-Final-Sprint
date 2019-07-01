@@ -1,0 +1,13 @@
+/home/iulia/Desktop/se-05-team-02/build/CMakeFiles/rebuild_cache.dir
+/home/iulia/Desktop/se-05-team-02/build/CMakeFiles/edit_cache.dir
+/home/iulia/Desktop/se-05-team-02/build/src/CMakeFiles/rebuild_cache.dir
+/home/iulia/Desktop/se-05-team-02/build/src/CMakeFiles/pencile_producer.dir
+/home/iulia/Desktop/se-05-team-02/build/src/CMakeFiles/edit_cache.dir
+/home/iulia/Desktop/se-05-team-02/build/src/CMakeFiles/pencile_producer_autogen.dir
+/home/iulia/Desktop/se-05-team-02/build/test/CMakeFiles/rebuild_cache.dir
+/home/iulia/Desktop/se-05-team-02/build/test/CMakeFiles/test_welcome.dir
+/home/iulia/Desktop/se-05-team-02/build/test/CMakeFiles/edit_cache.dir
+/home/iulia/Desktop/se-05-team-02/build/test/CMakeFiles/test_welcome_autogen.dir
+/home/iulia/Desktop/se-05-team-02/build/doc/CMakeFiles/rebuild_cache.dir
+/home/iulia/Desktop/se-05-team-02/build/doc/CMakeFiles/doc.dir
+/home/iulia/Desktop/se-05-team-02/build/doc/CMakeFiles/edit_cache.dir

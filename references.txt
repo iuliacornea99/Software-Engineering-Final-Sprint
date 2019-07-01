@@ -1,0 +1,35 @@
+{
+	"online-references": [{
+			"url": "https://doc.qt.io/qt-5/cmake-manual.html",
+			"contribution": "Implementation of CMake file",
+			"file": "CMakeFile.txt"
+		},
+
+		{
+			"title": "https://doc.qt.io/qt-5/qtimer.html",
+			"contribution": "QTimer",
+			"file": "HelloForm.cpp"
+		},
+		{
+			"title": "https://doc.qt.io/qt-5/qpushbutton.html",
+			"contribution": "QPushbutton or buttons in general",
+			"file": "HelloForm.cpp"
+		},
+		{
+			"title": "http://www.doxygen.nl/manual/starting.html",
+			"contribution": "Doxygen",
+			"file": "Doxygen.ini"
+		},
+		{
+			"title": "https://fabrika-antey.ru/images/attendance-clipart-pencil-3.png",
+			"contribution": "Window image",
+			"file": "window.ui"
+		},
+		{
+			"title": "https://images.unsplash.com/photo-1501349800519-48093d60bde0",
+			"contribution": "Welcome image",
+			"file": "welcome.ui"
+		}
+
+	]
+}

@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+a47faaa72db6b76555de94b4bf28e9dc doc/CMakeFiles/doc
+0af348dbf91f1f6e3331061b088330af src/CMakeFiles/pencile_producer_autogen
+71d1e9090439e0b45127296627d8b0af test/CMakeFiles/test_welcome_autogen
